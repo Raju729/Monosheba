@@ -1,0 +1,17 @@
+<script src="{{asset('assets/asset_front/js/vendor/jquery-3.3.1.min.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/vendor/jquery-ui.min.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/vendor/popper.min.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/bootstrap.min.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/swiper.min.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/scrollup.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/ajax-mailchimp.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/imageloaded.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/isotope-masonary.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/slicknav.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/magnific.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/counterup.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/waypoints.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/nice-select-plugin.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/plugins.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/scripts.js')}}"></script>
+<script src="{{asset('assets/asset_front/js/notify.min.js')}}"></script>
